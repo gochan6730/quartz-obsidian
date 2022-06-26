@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: TKH
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,12 +8,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The powerful and all-in-one notes, by TKH
 page_title:
-  "🪴 Quartz 3.2"
+  "✨ TKH Notes ✨"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Instagram
+    link: https://instagram.com/thomas.tkh
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/gochan6730
+  - link_name: Original
+    link: https://github.com/jackyzha0/quartz
